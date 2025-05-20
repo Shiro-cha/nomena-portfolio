@@ -49,7 +49,7 @@ export default function Home() {
         <div className="order-1 md:order-2 flex justify-center">
           <div className="relative w-64 h-64 md:w-80 md:h-80">
             <Image
-              src="/placeholder.svg?height=320&width=320"
+              src="/placeholder-user.jpg?height=320&width=320"
               alt="Profile Image"
               width={320}
               height={320}
